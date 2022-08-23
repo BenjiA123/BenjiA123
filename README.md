@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjiA123
-- 👀 I’m interested in writing Javascript. To me it brings life to mere ideas and i love it
-- 🌱 I’m currently learning node so as to be able to run my programs outside the web browser
-- 💞️ I’m looking to collaborate on anything that gives experience
+- 👋 Hi, I’m Benjamin and I am a Mid Level Full Stack Web Engineer. 
+
+I build high end and scaleable applications to solve problems.
+
 - 📫 How to reach me teckwrld@gmail.com
 
